@@ -2,7 +2,8 @@ from pytvdbapi import api
 class Shows:
 
     def DB(self):
-        db = api.TVDB('E726B260A0CE0558', banners= True)  #using api code
+        #Replace ** with your Api Code
+        db = api.TVDB('**', banners= True)  #using api code
         return db
 
     def get_show(self, database, show):
