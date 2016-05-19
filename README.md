@@ -5,13 +5,13 @@ Requirments:
 
 GSpread:
 https://github.com/burnash/gspread
-you need an api code to use google drive.
-It is no supplied in this rep because its used for a specific google account.
+you need an api key to use google drive.
+It is not supplied in this rep because its used for a specific google account.
 This link should guide you through it.
 http://gspread.readthedocs.io/en/latest/oauth2.html
 
 PyTvDBApi:
 https://github.com/fuzzycode/pytvdbapi
-You also need an api from thetvdb.com
+You also need an api key from thetvdb.com
 
 *Makes sure to go through the above links and download all of the required modules.
