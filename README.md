@@ -1,5 +1,5 @@
 # TvShow2GDoc
-Python program that automaticly put tv show information into a google spreadsheet
+Python program that automaticly puts tv show information into a google spreadsheet
 
 Requirments:
 
